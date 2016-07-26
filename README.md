@@ -1,6 +1,7 @@
 # OgresAURLikeOnions' Dotfiles
 
 **General**
+
 These are my dotfiles for the i3-gaps fork of i3wm. The i3 config file is perfectly usable with the non-gaps version of i3wm simply by removing the following lines:
 
     # Gaps
